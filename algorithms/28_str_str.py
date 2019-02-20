@@ -1,7 +1,6 @@
 """
-===
 StrStr
-===
+---
 
 Implement strStr().
 
@@ -23,6 +22,7 @@ Clarification:
     For the purpose of this problem, we will return 0 when needle is an empty
     string. This is consistent to C's strstr() and Java's indexOf().
 
+Reference:
 - https://algorithm.yuanbin.me/zh-hans/string/strstr.html
 - https://leetcode.com/problems/implement-strstr/
 - https://www.geeksforgeeks.org/naive-algorithm-for-pattern-searching/
