@@ -34,7 +34,8 @@ def reverse_words_in_a_string(string):
     :return: reversed string
     :rtype: str
     """
-    splited = [word for word in string.split(' ')
+    # return ' '.join(string.strip().split(' ')[::-1])
+    splited = [word for word in string.strip().split(' ')
                if word != '']
     return ' '.join(splited[::-1])
 
