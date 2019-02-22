@@ -25,6 +25,7 @@ Follow up:
 Reference:
     - https://algorithm.yuanbin.me/zh-hans/string/two_strings_are_anagrams.html
     - https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
+    - https://leetcode.com/problems/valid-anagram/
     - https://www.lintcode.com/problem/valid-anagram
 """
 
