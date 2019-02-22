@@ -5,6 +5,7 @@ LeetCode Problems' Solutions
 
 | No.  | Title                                                        | Solution                                                | Difficulty | Tags           |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------- | ---------- | -------------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](algorithms/1_two_sum.py) | Easy | Integer Array |
 | 2    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](algorithms/2_valid_anagram.py)                 | Easy       | String         |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](algorithms/5_longest_palindromic_substring.py) | Medium     | String         |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](algorithms/27_remove_element.py)               | Easy       | Integer Array |
