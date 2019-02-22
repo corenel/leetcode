@@ -8,6 +8,7 @@ LeetCode Problems' Solutions
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](algorithms/1_two_sum.py) | Easy | Integer Array |
 | 2    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](algorithms/2_valid_anagram.py)                 | Easy       | String         |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](algorithms/5_longest_palindromic_substring.py) | Medium     | String         |
+| 15 | [Three Sum](https://leetcode.com/problems/3sum/) | [Python](algorithms/15_three_sum.py) | Medium | Integer Array |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](algorithms/27_remove_element.py)               | Easy       | Integer Array |
 | 28   | [StrStr](https://leetcode.com/problems/implement-strstr/)    | [Python](algorithms/28_str_str.py)                      | Easy       | String         |
 | 38   | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](algorithms/38_count_and_say.py)                | Easy       | String         |
