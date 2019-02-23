@@ -61,7 +61,7 @@ def merge(nums1, m, nums2, n) -> None:
         j -= 1
 
 
-class TestRemoveMergeSortedArray(unittest.TestCase):
+class TestMergeSortedArray(unittest.TestCase):
     def test_merge_sorted_array(self):
         nums1 = [1, 2, 3, 0, 0, 0]
         m = 3
