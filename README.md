@@ -18,6 +18,7 @@ LeetCode Problems' Solutions
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](algorithms/44_wildcard_matching.py)            | Hard       | String         |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](algorithms/49_group_anagrams.py)               | Easy       | String         |
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](algorithms/58_length_of_last_word.py)          | Medium     | String         |
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/80_remove_duplicates_from_sorted_array_ii.py) | Medium | Integer Array |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](algorithms/125_valid_palindrome.py)            | Easy       | String         |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](algorithms/151_reverse_words_in_a_string.py)   | Medium     | String         |
 
