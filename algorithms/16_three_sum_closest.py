@@ -83,8 +83,8 @@ def three_sum_closest(nums, target):
 
 class TestThreeSumClosest(unittest.TestCase):
     def test_three_sum_closest(self):
-        # self.assertEqual(2, three_sum_closest([-1, 2, 1, -4], 1))
-        # self.assertEqual(3, three_sum_closest([1, 1, 1, 1], 100))
+        self.assertEqual(2, three_sum_closest([-1, 2, 1, -4], 1))
+        self.assertEqual(3, three_sum_closest([1, 1, 1, 1], 100))
         self.assertEqual(82, three_sum_closest([1, 2, 4, 8, 16, 32, 64, 128], 82))
 
 
