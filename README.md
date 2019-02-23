@@ -24,4 +24,5 @@ LeetCode Problems' Solutions
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](algorithms/125_valid_palindrome.py)            | Easy       | String         |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](algorithms/151_reverse_words_in_a_string.py)   | Medium     | String         |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](algorithms/215_kth_largest_element_in_an_array.py) | Medium | Integet Array |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](algorithms/278_first_bad_version.py) | Easy | Binary Search |
 
