@@ -22,6 +22,7 @@ LeetCode Problems' Solutions
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](algorithms/58_length_of_last_word.py)          | Medium     | String         |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](algorithms/74_search_a_2d_matrix.py) | Medium | Binary Search |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/80_remove_duplicates_from_sorted_array_ii.py) | Medium | Integer Array |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python](algorithms/33_search_in_rotated_sorted_array.py) | Medium | Binary Search |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](algorithms/88_merge_sorted_array.py) | Easy | Integet Array |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](algorithms/125_valid_palindrome.py)            | Easy       | String         |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](algorithms/151_reverse_words_in_a_string.py)   | Medium     | String         |
