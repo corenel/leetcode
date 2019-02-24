@@ -27,6 +27,7 @@ LeetCode Problems' Solutions
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](algorithms/125_valid_palindrome.py)            | Easy       | String         |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](algorithms/151_reverse_words_in_a_string.py)   | Medium     | String         |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](algorithms/153_find_minimum_in_rotated_sorted_array.py) | Medium | Binary Search |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python](algorithms/154_find_minimum_in_rotated_sorted_array_ii.py) | Medium | Binary Search |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](algorithms/162_find_peak_element.py) | Medium | Binary Search |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](algorithms/215_kth_largest_element_in_an_array.py) | Medium | Integet Array |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](algorithms/240_search_a_2d_matrix_ii.py) | Medium | Binary Search |
