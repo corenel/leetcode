@@ -26,6 +26,7 @@ LeetCode Problems' Solutions
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/80_remove_duplicates_from_sorted_array_ii.py) | Medium | Integer Array |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python](algorithms/33_search_in_rotated_sorted_array.py) | Hard | Binary Search |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](algorithms/88_merge_sorted_array.py) | Easy | Integet Array |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python](algorithms/96_unique_binary_search_trees.py) | Medium | Math |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](algorithms/125_valid_palindrome.py)            | Easy       | String         |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](algorithms/136_single_number.py) | Easy | Bit Manipulation |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](algorithms/137_single_number_ii.py) | Medium | Bit Manipulation |
