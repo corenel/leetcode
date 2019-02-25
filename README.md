@@ -34,6 +34,7 @@ LeetCode Problems' Solutions
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python](algorithms/154_find_minimum_in_rotated_sorted_array_ii.py) | Medium | Binary Search |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](algorithms/162_find_peak_element.py) | Medium | Binary Search |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](algorithms/215_kth_largest_element_in_an_array.py) | Medium | Integet Array |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](algorithms/231_power_of_two.py) | Easy | Bit Manipulation |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](algorithms/240_search_a_2d_matrix_ii.py) | Medium | Binary Search |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](algorithms/260_single_number_iii.py) | Medium | Bit Manipulation |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](algorithms/278_first_bad_version.py) | Easy | Binary Search |
