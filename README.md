@@ -42,4 +42,5 @@ LeetCode Problems' Solutions
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](algorithms/240_search_a_2d_matrix_ii.py) | Medium | Binary Search |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](algorithms/260_single_number_iii.py) | Medium | Bit Manipulation |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](algorithms/278_first_bad_version.py) | Easy | Binary Search |
-
+| 371 | [Sum of Two Integers](https://leetcode.com/problems/fibonacci-number/) | [Python](algorithms/371_sum_of_two_integers.py) | Easy | Bit Manipulation |
+| 509 | [Fibonacci Number](https://www.lintcode.com/problem/fibonacci/) | [Python](algorithms/509_fibonacci_number.py) | Easy | Math |
