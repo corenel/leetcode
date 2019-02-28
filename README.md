@@ -39,6 +39,7 @@ LeetCode Problems' Solutions
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](algorithms/191_number_of_1_bits.py) | Easy | Bit Manipulation |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](algorithms/202_happy_number.py) | Easy | Math |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](algorithms/215_kth_largest_element_in_an_array.py) | Medium | Integet Array |
+| 229 | [Majority Element](https://leetcode.com/problems/majority-element-ii/) | [Python](algorithms/229_majority_element_ii.py) | Medium | Math |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](algorithms/231_power_of_two.py) | Easy | Bit Manipulation |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](algorithms/240_search_a_2d_matrix_ii.py) | Medium | Binary Search |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](algorithms/260_single_number_iii.py) | Medium | Bit Manipulation |
