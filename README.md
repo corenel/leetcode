@@ -6,7 +6,7 @@ LeetCode Problems' Solutions
 | No.  | Title                                                        | Solution                                                | Difficulty | Tags           |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------- | ---------- | -------------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](algorithms/1_two_sum.py) | Easy | Integer Array |
-| 2    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](algorithms/2_valid_anagram.py)                 | Easy       | String         |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](algorithms/2_add_two_numbers.py)                    | Medium     | Linked List      |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](algorithms/4_median_of_two_sorted_arrays.py) | Hard | Binary Search |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](algorithms/5_longest_palindromic_substring.py) | Medium     | String         |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](algorithms/9_palindrome_number.py) | Easy | Math |
@@ -48,6 +48,7 @@ LeetCode Problems' Solutions
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](algorithms/231_power_of_two.py) | Easy | Bit Manipulation |
 | 233 | [Number of digit one](https://leetcode.com/problems/number-of-digit-one/) | [Python](algorithms/233_number_of_digit_one.py) | Hard | Math |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](algorithms/240_search_a_2d_matrix_ii.py) | Medium | Binary Search |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](algorithms/242_valid_anagram.py) | Easy | String |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](algorithms/260_single_number_iii.py) | Medium | Bit Manipulation |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](algorithms/263_ugly_number.py) | Easy | Math |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](algorithms/278_first_bad_version.py) | Easy | Binary Search |

@@ -296,6 +296,22 @@ def generate_test_linked_list(size=5, singly=False):
     return val_list, node_list
 
 
+def generate_linked_list(val_list, singly=True):
+    """
+    Generate linked list with given values
+
+    :param val_list: given list of values
+    :type val_list: list
+    :param singly: whether or not linked list is singly
+    :type singly: bool
+    :return: created linked list
+    :rtype: LinkedList
+    """
+    linked_list = LinkedList(singly=singly)
+    linked_list.append_val_list(val_list)
+    return linked_list
+
+
 class TestLinkedList(unittest.TestCase):
 
     def test_append_linked_list(self):
