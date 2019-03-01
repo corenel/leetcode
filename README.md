@@ -9,6 +9,7 @@ LeetCode Problems' Solutions
 | 2    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](algorithms/2_valid_anagram.py)                 | Easy       | String         |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](algorithms/4_median_of_two_sorted_arrays.py) | Hard | Binary Search |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](algorithms/5_longest_palindromic_substring.py) | Medium     | String         |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](algorithms/9_palindrome_number.py) | Easy | Math |
 | 15 | [Three Sum](https://leetcode.com/problems/3sum/) | [Python](algorithms/15_three_sum.py) | Medium | Integer Array |
 | 16 | [Three Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](algorithms/16_three_sum_closest.py) | Medium | Integer Array |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](algorithms/26_remove_duplicates_from_sorted_array.py) | Easy | Integer Array |
