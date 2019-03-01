@@ -19,6 +19,9 @@ class ListNode:
         self.val = val
         self.next = None
 
+    def __repr__(self):
+        return 'Node {}'.format(self.val)
+
 
 class DListNode:
     def __init__(self, val):
@@ -256,6 +259,9 @@ class LinkedList:
                 break
 
         return slow
+
+    def __repr__(self):
+        return self.to_list()
 
 
 def remove_list_node(curr, prev=None):

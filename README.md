@@ -29,6 +29,7 @@ LeetCode Problems' Solutions
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python](algorithms/33_search_in_rotated_sorted_array.py) | Hard | Binary Search |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](algorithms/82_remove_duplicates_from_sorted_list_ii.py) | Medium | Linked List |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](algorithms/83_remove_duplicates_from_sorted_list.py) | Easy | Linked List |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/submissions/) | [Python](algorithms/86_partition_list.py) | Medium | Linked List |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](algorithms/88_merge_sorted_array.py) | Easy | Integet Array |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python](algorithms/96_unique_binary_search_trees.py) | Medium | Math |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](algorithms/125_valid_palindrome.py)            | Easy       | String         |
