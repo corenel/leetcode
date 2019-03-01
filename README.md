@@ -46,6 +46,7 @@ LeetCode Problems' Solutions
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python](algorithms/172_factorial_trailing_zeroes.py) | Easy | Math |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](algorithms/191_number_of_1_bits.py) | Easy | Bit Manipulation |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](algorithms/202_happy_number.py) | Easy | Math |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](algorithms/206_reverse_linked_list.py) | Easy | Linked List |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](algorithms/215_kth_largest_element_in_an_array.py) | Medium | Integet Array |
 | 229 | [Majority Element](https://leetcode.com/problems/majority-element-ii/) | [Python](algorithms/229_majority_element_ii.py) | Medium | Math |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](algorithms/231_power_of_two.py) | Easy | Bit Manipulation |
