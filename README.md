@@ -21,6 +21,7 @@ LeetCode Problems' Solutions
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](algorithms/44_wildcard_matching.py)            | Hard       | String         |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](algorithms/49_group_anagrams.py)               | Easy       | String         |
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](algorithms/58_length_of_last_word.py)          | Medium     | String         |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](algorithms/66_plus_one.py) | Easy | Math |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](algorithms/69_sqrt_x.py) | Easy | Binary Search |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](algorithms/74_search_a_2d_matrix.py) | Medium | Binary Search |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/80_remove_duplicates_from_sorted_array_ii.py) | Medium | Integer Array |
