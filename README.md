@@ -36,6 +36,7 @@ LeetCode Problems' Solutions
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](algorithms/125_valid_palindrome.py)            | Easy       | String         |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](algorithms/136_single_number.py) | Easy | Bit Manipulation |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](algorithms/137_single_number_ii.py) | Medium | Bit Manipulation |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](algorithms/141_linked_list_cycle.py) | Easy | Linked List |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](algorithms/151_reverse_words_in_a_string.py)   | Medium     | String         |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](algorithms/153_find_minimum_in_rotated_sorted_array.py) | Medium | Binary Search |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python](algorithms/154_find_minimum_in_rotated_sorted_array_ii.py) | Medium | Binary Search |
