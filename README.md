@@ -13,6 +13,7 @@ LeetCode Problems' Solutions
 | 15 | [Three Sum](https://leetcode.com/problems/3sum/) | [Python](algorithms/15_three_sum.py) | Medium | Integer Array |
 | 16 | [Three Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](algorithms/16_three_sum_closest.py) | Medium | Integer Array |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](algorithms/19_remove_nth_node_from_end_of_list.py) | Medium | Linked List |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](algorithms/21_merge_two_sorted_lists.py) | Easy | Linked List |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](algorithms/26_remove_duplicates_from_sorted_array.py) | Easy | Integer Array |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](algorithms/27_remove_element.py)               | Easy       | Integer Array |
 | 28   | [StrStr](https://leetcode.com/problems/implement-strstr/)    | [Python](algorithms/28_str_str.py)                      | Easy       | String         |
