@@ -32,6 +32,7 @@ LeetCode Problems' Solutions
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](algorithms/83_remove_duplicates_from_sorted_list.py) | Easy | Linked List |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/submissions/) | [Python](algorithms/86_partition_list.py) | Medium | Linked List |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](algorithms/88_merge_sorted_array.py) | Easy | Integet Array |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](algorithms/92_reverse_linked_list_ii.py) | Medium | Linked List |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python](algorithms/96_unique_binary_search_trees.py) | Medium | Math |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](algorithms/125_valid_palindrome.py)            | Easy       | String         |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](algorithms/136_single_number.py) | Easy | Bit Manipulation |
