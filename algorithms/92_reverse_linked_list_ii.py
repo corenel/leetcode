@@ -48,7 +48,7 @@ def reverse_between(head, m, n):
         node_m_pre = node_m_pre.next
     node_m = node_m_pre.next
 
-    # reverse linkde list in [m, n]
+    # reverse linked list in [m, n]
     node_n = node_m
     node_n_post = node_m.next
     for _ in range(m, n):
