@@ -39,6 +39,7 @@ LeetCode Problems' Solutions
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](algorithms/125_valid_palindrome.py)            | Easy       | String         |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](algorithms/136_single_number.py) | Easy | Bit Manipulation |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](algorithms/137_single_number_ii.py) | Medium | Bit Manipulation |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](algorithms/138_copy_list_with_random_pointer.py) | Medium | Linked List |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](algorithms/141_linked_list_cycle.py) | Easy | Linked List |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](algorithms/142_linked_list_cycle_ii.py) | Medium | Linked List |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](algorithms/143_reorder_list.py) | Medium | Linked List |
