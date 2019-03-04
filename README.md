@@ -58,6 +58,7 @@ LeetCode Problems' Solutions
 | 229 | [Majority Element](https://leetcode.com/problems/majority-element-ii/) | [Python](algorithms/229_majority_element_ii.py) | Medium | Math |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](algorithms/231_power_of_two.py) | Easy | Bit Manipulation |
 | 233 | [Number of digit one](https://leetcode.com/problems/number-of-digit-one/) | [Python](algorithms/233_number_of_digit_one.py) | Hard | Math |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](algorithms/234_palindrome_linked_list.py) | Easy | Linked List |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](algorithms/240_search_a_2d_matrix_ii.py) | Medium | Binary Search |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](algorithms/242_valid_anagram.py) | Easy | String |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](algorithms/260_single_number_iii.py) | Medium | Bit Manipulation |
