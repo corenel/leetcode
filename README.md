@@ -43,6 +43,7 @@ LeetCode Problems' Solutions
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](algorithms/141_linked_list_cycle.py) | Easy | Linked List |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](algorithms/142_linked_list_cycle_ii.py) | Medium | Linked List |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](algorithms/143_reorder_list.py) | Medium | Linked List |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](algorithms/146_lru_cache.py) | Hard | Linked List |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Python](algorithms/147_insertion_sort_list.py) | Medium | Linked List |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Python](algorithms/148_sort_list.py) | Medium | Linked List |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](algorithms/151_reverse_words_in_a_string.py)   | Medium     | String         |
