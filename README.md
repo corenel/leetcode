@@ -14,6 +14,7 @@ LeetCode Problems' Solutions
 | 16 | [Three Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](algorithms/16_three_sum_closest.py) | Medium | Integer Array |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](algorithms/19_remove_nth_node_from_end_of_list.py) | Medium | Linked List |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](algorithms/21_merge_two_sorted_lists.py) | Easy | Linked List |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](algorithms/22_generate_parentheses.py) | Medium | String |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](algorithms/23_merge_k_sorted_lists.py) | Hard | Linked List |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](algorithms/24_swap_nodes_in_pairs.py) | Medium | Linked List |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](algorithms/26_remove_duplicates_from_sorted_array.py) | Easy | Integer Array |
