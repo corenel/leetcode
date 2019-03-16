@@ -41,6 +41,7 @@ LeetCode Problems' Solutions
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](algorithms/94_binary_tree_inorder_traversal.py) | Medium | Binary Tree |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python](algorithms/96_unique_binary_search_trees.py) | Medium | Math |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](algorithms/102_binary_tree_level_order_traversal.py) | Medium | Binary Tree |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](algorithms/104_maximum_depth_of_binary_tree.py) | Easy | Binary Tree |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](algorithms/107_binary_tree_level_order_traversal_ii.py) | Easy | Binary Tree |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](algorithms/125_valid_palindrome.py)            | Easy       | String         |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [Python](algorithms/135_candy.py) | Hard | Math |
@@ -78,3 +79,11 @@ LeetCode Problems' Solutions
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/fibonacci-number/) | [Python](algorithms/371_sum_of_two_integers.py) | Easy | Bit Manipulation |
 | 509 | [Fibonacci Number](https://www.lintcode.com/problem/fibonacci/) | [Python](algorithms/509_fibonacci_number.py) | Easy | Math |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](algorithms/621_task_scheduler.py) | Medium | Math |
+
+## Tips
+### Bit Manipulatio in Python
+For bit manipulation in Python, if 32-bit integer is need, you can use this code snippet:
+```python
+def get_int32(a):
+    return a if a >> 31 <= 0 else a ^ ~0xFFFFFFFF
+```

@@ -72,10 +72,10 @@ def candy_circle(ratings):
 
 
 class TestCandy(unittest.TestCase):
-    # def test_candy(self):
-    #     self.assertEqual(5, candy([1, 0, 2]))
-    #     self.assertEqual(4, candy([1, 2, 2]))
-    #     self.assertEqual(11, candy([1, 3, 4, 5, 2]))
+    def test_candy(self):
+        self.assertEqual(5, candy([1, 0, 2]))
+        self.assertEqual(4, candy([1, 2, 2]))
+        self.assertEqual(11, candy([1, 3, 4, 5, 2]))
 
     def test_candy_circle(self):
         self.assertEqual(3, candy_circle([1, 2]))
