@@ -44,6 +44,7 @@ LeetCode Problems' Solutions
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](algorithms/104_maximum_depth_of_binary_tree.py) | Easy | Binary Tree |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](algorithms/107_binary_tree_level_order_traversal_ii.py) | Easy | Binary Tree |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](algorithms/110_balanced_binary_tree.py) | Easy | Binary Tree |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python](algorithms/124_binary_tree_maximum_path_sum.py) | Hard | Binary Tree |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](algorithms/125_valid_palindrome.py)            | Easy       | String         |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [Python](algorithms/135_candy.py) | Hard | Math |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](algorithms/136_single_number.py) | Easy | Bit Manipulation |
