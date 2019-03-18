@@ -25,6 +25,7 @@ LeetCode Problems' Solutions
 | 38   | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](algorithms/38_count_and_say.py)                | Easy       | String         |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](algorithms/41_first_missing_positive.py) | Hard | Integer Array |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](algorithms/44_wildcard_matching.py)            | Hard       | String         |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](algorithms/48_rotate_image.py) | Medium | Integer Array |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](algorithms/49_group_anagrams.py)               | Easy       | String         |
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](algorithms/58_length_of_last_word.py)          | Medium     | String         |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](algorithms/61_rotate_list.py) | Medium | Linked List |
