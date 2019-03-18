@@ -82,6 +82,7 @@ LeetCode Problems' Solutions
 | 509 | [Fibonacci Number](https://www.lintcode.com/problem/fibonacci/) | [Python](algorithms/509_fibonacci_number.py) | Easy | Math |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](algorithms/621_task_scheduler.py) | Medium | Math |
 | 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [Python](algorithms/845_longest_mountain_in_array.py) | Medium | Math |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Python](algorithms/852_peak_index_in_a_mountain_array.py) | Easy | Math |
 
 ## Tips
 ### Bit Manipulatio in Python
