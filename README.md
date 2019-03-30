@@ -70,6 +70,7 @@ LeetCode Problems' Solutions
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](algorithms/203_remove_linked_list_elements.py) | Easy | Linked List |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](algorithms/206_reverse_linked_list.py) | Easy | Linked List |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](algorithms/215_kth_largest_element_in_an_array.py) | Medium | Integet Array |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](algorithms/226_invert_binary_tree.py) | Easy | Binary Tree |
 | 229 | [Majority Element](https://leetcode.com/problems/majority-element-ii/) | [Python](algorithms/229_majority_element_ii.py) | Medium | Math |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](algorithms/231_power_of_two.py) | Easy | Bit Manipulation |
 | 233 | [Number of digit one](https://leetcode.com/problems/number-of-digit-one/) | [Python](algorithms/233_number_of_digit_one.py) | Hard | Math |
